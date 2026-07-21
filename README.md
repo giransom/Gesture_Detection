@@ -3,7 +3,7 @@ This project utilizes an algorithm predict a given gesture based on previous dat
 
 # Code
 - [Complete IMU Code](Gesture_Detection_IMU.ino)
-- [Updates Google Collab File](Gesture_Detection_IMU.ino)
+- [Updates Google Collab File](Updated_arduino_tinyml_workshop.ipynb)
 
 # Materials Required
 
