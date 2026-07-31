@@ -5,6 +5,9 @@ This project utilizes an algorithm predict a given gesture based on previous dat
 - [Complete IMU Code](Gesture_Detection_IMU.ino)
 - [Updates Google Collab File](Updated_arduino_tinyml_workshop.ipynb)
 
+# Project Notes: Challenges & Fixes
+In the completion of this project there were many road blocks that occurred. The original project this was modeled after utilized discontinued Arduino TensorFlowLite library and the majority of the google collab and IMU sketch depended on th elater version, especially the 
+
 # Materials Required
 
 | **Part** | **Note** | **Price** | **Link** |
