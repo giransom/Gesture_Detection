@@ -6,7 +6,7 @@ This project utilizes an algorithm predict a given gesture based on previous dat
 - [Updates Google Collab File](Updated_arduino_tinyml_workshop.ipynb)
 
 # Project Notes: Challenges & Fixes
-In the completion of this project there were many road blocks that occurred. The original project this was modeled after utilized discontinued Arduino TensorFlowLite library and the majority of the google collab and IMU sketch depended on th elater version, especially the 
+In the completion of this project there were many road blocks that occurred. The original project this was modeled after utilized discontinued Arduino TensorFlowLite library and the majority of the google collab and IMU sketch depended on the later version, especially the error reporter and versions file. In order to problem solve the IMU I had to look through the tensor flow's .h files to find the new location of the files. Soon after I found out the error reporter file changed in formatting which required me to adjust the IMU sketch file to match. When trying to run my previously made model, I discovered the IMU was formatted based off the model, which required me to adjust the google collabs format, specifically the 
 
 # Materials Required
 
