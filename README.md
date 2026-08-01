@@ -1,5 +1,5 @@
 # Gesture_Detection
-This project utilizes an algorithm predict a given gesture based on previous data collected. This project runs by initially collecting data, then inputing it to an algorithm to predict the gestures using the Arduino BLE 33 Sense board.
+This project utilizes an algorithm predict a given gesture based on previous data collected. This project runs by initially collecting data, then inputing it to an algorithm to predict the gestures using the Arduino BLE 33 Sense board. The whole project runs on the TensorFlowLite library which can take in raw data and then parse the information for patterns resulting in a model. The IMU file utilizes the model to predict what the current movement is based on previously fed tensor flow model.
 
 # Code
 - [Complete IMU Code](Gesture_Detection_IMU.ino)
